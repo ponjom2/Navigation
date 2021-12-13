@@ -15,7 +15,6 @@ const style = StyleSheet.create({
 
   button: {
     paddingVertical: 10,
-    // backgroundColor: "red",
   },
 })
 
